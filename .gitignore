@@ -1,0 +1,17 @@
+# Data & models
+data/
+yolo_dataset/
+*.pt
+
+# Results
+runs/
+video_results/
+tracking_results/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
