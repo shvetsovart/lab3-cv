@@ -5,7 +5,6 @@ yolo_dataset/
 
 # Results
 runs/
-video_results/
 tracking_results/
 
 # Python
